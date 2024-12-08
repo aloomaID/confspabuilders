@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://confspabuilders.xyz/sitemap_index.xml
